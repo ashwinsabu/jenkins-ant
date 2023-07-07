@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="Hello world" default="info">
+<target name="info">
+<echo>Hi I am Ashwin</echo>
+</target>
+</project>
